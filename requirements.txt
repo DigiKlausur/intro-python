@@ -9,3 +9,5 @@ pyyaml
 statsmodels
 easydict
 scipy
+itables
+bokeh
